@@ -1,6 +1,7 @@
 
 
-# ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5d281cnQzbmY4czgwMmZjMDE4cDZiYm9odGVvcmZzbThpM2hpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.gif)Hello! Dilham Fachry here 👨‍💻✨
+ ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5d281cnQzbmY4czgwMmZjMDE4cDZiYm9odGVvcmZzbThpM2hpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.gif)
+# Hello! Dilham Fachry here 👨‍💻✨
 
 Welcome to my digital workspace! I'm a passionate tech student from **State Polytechnic of Medan (Polmed)**. I enjoy building things from scratch and constantly learning in this fast-paced tech world. 
 
